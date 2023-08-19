@@ -4,3 +4,17 @@
     - Thread Executors turlarini yozing.
     - Serialization bilan Deserializationning nima ?
     - Log levellarni yozing.
+
+    1.Thread bu dasturni tez ishlashigayordam beradigan funksiya.
+
+    2.boshqa thread larni ishini tugankandan keyin ozi oladigan thread.
+
+    3.ExecutorServices,ScheduledExecutorService,ThreadPoolExecutor,Executors.
+
+    4.Serialization va deserialization, ma'lumotlarni bir formatdan boshqa formatga o'tkazish va qaytarish jarayonlarini ifodalaydi.
+    Bu jarayonlar ma'lumotlarni saqlash, uzatish, uzatilish va ulardan foydalanish imkoniyatini beradi.
+
+    5.Log level, dastur yoki ilovalar tomonidan generatsiyalangan loglarni tartiblash va ko'rsatishning darajasini ifodalovchi bir qiymatdir.
+    Log levellarining qo'llanilishi, dastur ishga tushirildikda qanday darajada loglarni ko'rsatishni tanlash imkonini beradi.
+    Har bir log level xususiy maqsadlarga yo'naltirilgan bo'lib, xatoliklarni aniqlash va to'g'ridan-to'g'ri tuzatish jarayonida yordam beradi.
+    Ularni turlari -    INFO,FINNER,ALL,WARNING,SEVERE,FINE....
